@@ -26,13 +26,13 @@
         <dependency>
             <groupId>org.apache.camel.springboot</groupId>
             <artifactId>camel-spring-boot-starter</artifactId>
-            <version>3.14.0</version>
+            <version>4.10.7</version>
         </dependency>
 
         <dependency>
             <groupId>org.apache.camel</groupId>
             <artifactId>camel-amqp</artifactId>
-            <version>3.14.1</version> <!-- use the same version as your Camel core version -->
+            <version>4.10.7</version> <!-- use the same version as your Camel core version -->
         </dependency>
 
         <dependency>
